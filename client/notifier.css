@@ -1,0 +1,12 @@
+/* CSS declarations go here */
+body{
+    background: #777777;
+    margin-top: 60px;
+}
+.box{
+    margin-bottom: 10px;
+    background: #fff;
+    -webkit-box-shadow: 16px 3px 40px 0px rgba(20,18,20,0.77);
+    -moz-box-shadow: 16px 3px 40px 0px rgba(20,18,20,0.77);
+    box-shadow: 16px 3px 40px 0px rgba(20,18,20,0.77);
+}
